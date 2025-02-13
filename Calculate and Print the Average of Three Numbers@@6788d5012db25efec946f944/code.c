@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
-    float a,b,c,average;
+    float a,b,c,Average;
     scanf("%f",&a,&b,&c);
-    average=(a+b+c)/3;
-    printf("Average: %.2f",average);
+    Average=(a+b+c)/3;
+    printf("Average: %.2f",Average);
 }
