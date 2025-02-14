@@ -4,6 +4,9 @@ int void(){
     scanf("%d",&a);
     scanf("%d",&b);
     if (a>b){
-        print("True");
+        print("True",a);
+    }
+    else{
+        print("False",b);
     }
 }
