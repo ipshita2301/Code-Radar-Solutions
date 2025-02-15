@@ -15,7 +15,7 @@ void main(){
         case '*':
             result=a*b;
             printf("%d",result);break;
-        case "/":
+        case '/':
             result=a/b;
             printf("%d",result);break;
         default:
