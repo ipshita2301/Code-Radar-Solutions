@@ -5,6 +5,7 @@ int main(){
     for(int i=1;i<=n;i++){
         int a=a=64;
         for(int j=1;j<=i;j++){
+            a++;
             char ch=(char)a;
             printf("%c ",ch);
         }
